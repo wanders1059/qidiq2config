@@ -1,0 +1,15 @@
+{
+    "from": "User",
+    "fuzzy_skin_thickness": "0.15",
+    "gcode_label_objects": "1",
+    "inherits": "0.20mm Standard @Qidi Q2",
+    "initial_layer_acceleration": "3000",
+    "initial_layer_infill_speed": "100",
+    "initial_layer_speed": "100",
+    "is_custom_defined": "0",
+    "name": ".2mm",
+    "print_settings_id": ".2mm",
+    "top_shell_layers": "3",
+    "version": "2.3.1.10",
+    "wall_loops": "3"
+}

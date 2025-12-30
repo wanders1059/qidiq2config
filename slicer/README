@@ -1,0 +1,7 @@
+The files in this directory are configuration files for OrcaSlicer.
+
+Rather than copying these files to your OrcaSlicer appdata directory, use a junction to keep them in sync with this repository:
+1. Remove `C:\Users\wande\AppData\Roaming\OrcaSlicer\user\default`
+2. In command prompt, create a junction to this folder: `mklink /J "C:\Users\<user>\AppData\Roaming\OrcaSlicer\user\default" .`
+
+This will ensure that this repository is kept up to date with any changes made to the configuration files.
