@@ -1,0 +1,40 @@
+{
+    "compatible_printers": [
+        "Qidi Q2 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "filament_cost": [
+        "10"
+    ],
+    "filament_density": [
+        "1.07"
+    ],
+    "filament_settings_id": [
+        "PETG"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @System",
+    "is_custom_defined": "0",
+    "name": "PETG",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "overhang_fan_speed": [
+        "75"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.035"
+    ],
+    "version": "2.3.1.10"
+}
