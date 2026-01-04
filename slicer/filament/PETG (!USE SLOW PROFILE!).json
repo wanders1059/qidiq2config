@@ -2,6 +2,9 @@
     "compatible_printers": [
         "Qidi Q2 0.4 nozzle"
     ],
+    "compatible_prints": [
+        ".2mm (slow)"
+    ],
     "enable_pressure_advance": [
         "1"
     ],
@@ -9,7 +12,7 @@
         "40"
     ],
     "fan_min_speed": [
-        "10"
+        "15"
     ],
     "filament_cost": [
         "10"

@@ -4,6 +4,7 @@
     "from": "User",
     "fuzzy_skin_thickness": "0.15",
     "gcode_label_objects": "1",
+    "infill_wall_overlap": "20%",
     "inherits": "0.20mm Standard @Qidi Q2",
     "initial_layer_acceleration": "3000",
     "initial_layer_infill_speed": "100",
