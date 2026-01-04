@@ -8,24 +8,33 @@
     "fan_max_speed": [
         "40"
     ],
+    "fan_min_speed": [
+        "10"
+    ],
     "filament_cost": [
         "10"
     ],
     "filament_density": [
         "1.07"
     ],
+    "filament_flow_ratio": [
+        "1.025"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
     "filament_settings_id": [
-        "PETG"
+        "PETG (!USE SLOW PROFILE!)"
     ],
     "from": "User",
     "inherits": "Generic PETG @System",
     "is_custom_defined": "0",
-    "name": "PETG",
+    "name": "PETG (!USE SLOW PROFILE!)",
     "nozzle_temperature": [
-        "250"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "260"
     ],
     "overhang_fan_speed": [
         "75"

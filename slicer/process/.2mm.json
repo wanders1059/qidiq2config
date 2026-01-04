@@ -13,7 +13,6 @@
     "print_settings_id": ".2mm",
     "seam_gap": "10%",
     "seam_slope_inner_walls": "1",
-    "seam_slope_type": "all",
     "staggered_inner_seams": "1",
     "top_shell_layers": "3",
     "version": "2.3.1.10",
