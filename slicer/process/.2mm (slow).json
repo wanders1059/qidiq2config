@@ -1,6 +1,7 @@
 {
     "bridge_speed": "20",
     "brim_type": "no_brim",
+    "default_acceleration": "5000",
     "from": "User",
     "fuzzy_skin_thickness": "0.15",
     "gap_infill_speed": "100",
@@ -15,6 +16,7 @@
     "internal_solid_infill_speed": "100",
     "is_custom_defined": "0",
     "name": ".2mm (slow)",
+    "outer_wall_acceleration": "2000",
     "outer_wall_speed": "100",
     "print_settings_id": ".2mm (slow)",
     "seam_gap": "10%",
@@ -25,5 +27,6 @@
     "top_shell_layers": "3",
     "top_surface_speed": "100",
     "version": "2.3.1.10",
+    "wall_generator": "arachne",
     "wall_loops": "3"
 }
