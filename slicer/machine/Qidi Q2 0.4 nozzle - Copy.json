@@ -2,9 +2,12 @@
     "from": "User",
     "inherits": "Qidi Q2 0.4 nozzle",
     "is_custom_defined": "0",
+    "max_resonance_avoidance_speed": "80",
+    "min_resonance_avoidance_speed": "55",
     "name": "Qidi Q2 0.4 nozzle - Copy",
     "print_host": "192.168.4.75",
     "printer_settings_id": "Qidi Q2 0.4 nozzle - Copy",
+    "resonance_avoidance": "1",
     "retract_lift_enforce": [
         "Bottom Only"
     ],

@@ -26,6 +26,9 @@
     "filament_settings_id": [
         "Generic ASA (black)"
     ],
+    "filament_shrink": [
+        "99.4%"
+    ],
     "from": "User",
     "inherits": "Generic ASA @System",
     "is_custom_defined": "0",
@@ -34,7 +37,7 @@
         "60"
     ],
     "pressure_advance": [
-        "0.036"
+        "0.044"
     ],
     "slow_down_layer_time": [
         "7"
