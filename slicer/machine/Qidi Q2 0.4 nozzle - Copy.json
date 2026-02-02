@@ -9,14 +9,8 @@
     "print_host": "192.168.4.75",
     "printer_settings_id": "Qidi Q2 0.4 nozzle - Copy",
     "resonance_avoidance": "1",
-    "retract_lift_enforce": [
-        "Bottom Only"
-    ],
     "version": "2.3.1.10",
     "z_hop": [
         "0.2"
-    ],
-    "z_hop_types": [
-        "Slope Lift"
     ]
 }
