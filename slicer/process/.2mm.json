@@ -11,6 +11,7 @@
     "initial_layer_infill_speed": "100",
     "initial_layer_speed": "100",
     "inner_wall_acceleration": "6000",
+    "inner_wall_speed": "200",
     "is_custom_defined": "0",
     "name": ".2mm",
     "overhang_1_4_speed": "80",
