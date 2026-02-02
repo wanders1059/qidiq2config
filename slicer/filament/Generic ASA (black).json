@@ -9,7 +9,7 @@
         "Qidi Q2 0.4 nozzle"
     ],
     "complete_print_exhaust_fan_speed": [
-        "80"
+        "100"
     ],
     "during_print_exhaust_fan_speed": [
         "50"
@@ -20,6 +20,9 @@
     "fan_max_speed": [
         "40"
     ],
+    "fan_min_speed": [
+        "20"
+    ],
     "filament_flow_ratio": [
         "0.96"
     ],
@@ -27,7 +30,7 @@
         "Generic ASA (black)"
     ],
     "filament_shrink": [
-        "99.4%"
+        "99.55%"
     ],
     "from": "User",
     "inherits": "Generic ASA @System",
@@ -40,7 +43,7 @@
         "0.036"
     ],
     "slow_down_layer_time": [
-        "7"
+        "5"
     ],
     "version": "2.3.1.10"
 }
