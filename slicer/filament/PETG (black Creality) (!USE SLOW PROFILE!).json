@@ -1,0 +1,58 @@
+{
+    "compatible_printers": [
+        "Qidi Q2 0.4 nozzle"
+    ],
+    "compatible_prints": [
+        ".2mm (slow)"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_cost": [
+        "10"
+    ],
+    "filament_density": [
+        "1.07"
+    ],
+    "filament_flow_ratio": [
+        "0.975"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "PETG (black Creality) (!USE SLOW PROFILE!)"
+    ],
+    "filament_shrink": [
+        "99.65%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "99.65%"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @System",
+    "is_custom_defined": "0",
+    "name": "PETG (black Creality) (!USE SLOW PROFILE!)",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "75"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.038"
+    ],
+    "version": "2.3.1.10"
+}
